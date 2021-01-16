@@ -13,11 +13,17 @@ In order to start with the project, you will need to have the following npm pack
 
 ### command to install
 
-`npm i -g typescript nodemon ts-node prettier`
+```
+npm i -g typescript nodemon ts-node prettier
+```
 
 ### Download the project
 
-download the project's source to url computer get inside the project folder and run: <br> `npm i`
+download the project's source to url computer get inside the project folder and run:
+
+```
+npm i
+```
 
 ## Environment Variables
 
@@ -25,7 +31,11 @@ In order to get the server up and running copy the `.env-example` file and chang
 
 ## Running the server locally
 
-In order to run the project locally you will need to run the following command: <br> `nodemon src/index.ts`
+In order to run the project locally you will need to run the following command:
+
+```
+nodemon src/index.ts
+```
 
 ## API Requests
 
